@@ -5,8 +5,10 @@ Portafolio que contiene los distintos proyectos realizados en el bootcamp de dat
 La metodologia es por sprints, en donde cada uno abarca un tema y un proyecto especifico.
 
 ## Sprint 1: Python Basico
-descripcion
-
+En este sprint revisamos los fundamos de python, en donde abarcamos temas como:
+- Tipos de datos.
+- Ciclos (for, if, while).
+- Listas anidadas
 
 ## Sprint 2: Pandas.
 descripción
